@@ -1,4 +1,8 @@
-## Hi there 👋
+## ¡Hola! 👋
+
+Soy programador💻 estudiante en la carrera Desarrollo de Software especializado en .NET, trabajando tanto con Framework 4.8 como con .NET 8, utilizando C#. Empleo herramientas como Entity Framework y Blazor, junto con bases de datos SQL Server. Para el diseño del frontend, utilizo HTML, CSS y Bootstrap.
+
+ 🌱 Actualmente expandiendo mis conocimientos en Blazor y JavaScript
 
 <!--
 **lucagaggero7/lucagaggero7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
