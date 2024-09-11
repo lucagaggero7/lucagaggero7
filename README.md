@@ -5,8 +5,9 @@ Soy programador💻 estudiante en la carrera Desarrollo de Software especializad
 🌱 Actualmente expandiendo mis conocimientos en Blazor y JavaScript.  
 🔭 Buscando ser un pionero en .NET 8 (recientemente lanzado en 2023).
 
-[-> Aquí puedes ver mis repositorios GitHub✔]([https://github.com](https://github.com/lucagaggero7?tab=repositories))  
-[-> Y aquí contactarme en LinkedIn📌]([[https://github.com](https://github.com/lucagaggero7?tab=repositories](https://ar.linkedin.com/in/stefano-gaggero-508a09183))
+[-> Aquí puedes ver mis repositorios GitHub✔](https://github.com/lucagaggero7?tab=repositories) 
+[-> Y aquí contactarme en LinkedIn📌] (https://www.linkedin.com/in/stefano-gaggero-508a09183/?originalSubdomain=ar)
+
 <!--
 **lucagaggero7/lucagaggero7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
