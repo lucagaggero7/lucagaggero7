@@ -7,7 +7,7 @@ Soy programador💻 estudiante en la carrera Desarrollo de Software especializad
 [-> Aquí puedes ver mis repositorios GitHub✔](https://github.com/lucagaggero7?tab=repositories)  
 [-> Y aquí contactarme en LinkedIn📌](https://www.linkedin.com/in/stefano-gaggero-508a09183/?originalSubdomain=ar)
 
-<img src="logo.png" alt="Logo de GitHub" width="70">
+<img src="logo-transparent.png" alt="Logo de GitHub" width="70">
 
 <!--
 **lucagaggero7/lucagaggero7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
