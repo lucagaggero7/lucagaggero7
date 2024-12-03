@@ -1,5 +1,5 @@
 ## <img src="logo-transparent.png" alt="Logo de GitHub" width="70">    
-¡Hola! 👋 
+## ¡Hola! 👋 
 
 Soy programador💻 estudiante en la carrera Desarrollo de Software especializado en .NET, trabajando tanto con Framework 4.8 como con .NET 8/9, utilizando C#. Empleo herramientas como Entity Framework, Swagger/OpenApi, Blazor WebAssembly, Angular, ASP.NET Core Web API, WebForms, junto con bases de datos SQL Server. Para el diseño del frontend, utilizo HTML, CSS, Bootstrap, JavaScript y TypeScript.
 
