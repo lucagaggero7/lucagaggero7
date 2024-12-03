@@ -5,8 +5,8 @@ Soy programador💻 estudiante en la carrera Desarrollo de Software especializad
 <!--🌱 Actualmente expandiendo mis conocimientos en .NET 9, Blazor y Angular -->
 
 [-> Visita mi portafolio !🌐](https://portafolio-stefano-gaggero.netlify.app/)  
-[-> Aquí puedes ver mis repositorios✔](https://github.com/lucagaggero7?tab=repositories)  
-[-> Y aquí contactarme en LinkedIn📌](https://www.linkedin.com/in/stefano-gaggero-508a09183/?originalSubdomain=ar)
+[-> Aquí puedes ver mis repositorios📌](https://github.com/lucagaggero7?tab=repositories)  
+[-> Y aquí contactarme en LinkedIn👨🏻‍💼](https://www.linkedin.com/in/stefano-gaggero-508a09183/?originalSubdomain=ar)
 
 <img src="logo-transparent.png" alt="Logo de GitHub" width="70">
 
