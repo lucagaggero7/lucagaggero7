@@ -1,6 +1,6 @@
 ## ¡Hola mundo! 👋   
 
-Soy programador 💻 y estudiante de la carrera de Desarrollo de Software, especializado en .NET. Trabajo tanto con Framework 4.8 como con .NET 8/9, utilizando C#. Empleo herramientas como Entity Framework, Swagger/OpenAPI, Blazor WebAssembly, Angular, ASP.NET Core Web API y WebForms, además de bases de datos SQL Server. Para el diseño del frontend, utilizo HTML, CSS, Bootstrap, JavaScript y TypeScript.
+Soy programador 💻 y estudiante de la carrera de Desarrollo de Software, especializado en .NET. Trabajo tanto con __.NET Framework 4.8__ como con __.NET 8__ y __9__, utilizando C#. Empleo herramientas como Entity Framework, Swagger/OpenAPI, Blazor WebAssembly, Angular, ASP.NET Core Web API y WebForms, además de bases de datos SQL Server. Para el diseño del frontend, utilizo HTML, CSS, Bootstrap, JavaScript y TypeScript.
 
 <!--🌱 Actualmente expandiendo mis conocimientos en .NET 9, Blazor y Angular -->
 
