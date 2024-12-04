@@ -1,4 +1,4 @@
-<div style="text-align: center";>
+<div align="center">
 ## ¡Hola mundo! 👋   
  </div>
 <img src="banner-reducido.png" alt="Mi Banner">
