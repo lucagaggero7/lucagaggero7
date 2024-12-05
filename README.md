@@ -17,6 +17,9 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&hide=contribs&show_icons=true&theme=transparent&locale=es&custom_title=Estadisticas" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&layout=compact&langs_count=8&card_width=320" />
 </a>
