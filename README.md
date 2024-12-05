@@ -15,12 +15,21 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
 [-> Y aquí contactarme en LinkedIn👨🏻‍💼](https://www.linkedin.com/in/stefano-gaggero-508a09183/?originalSubdomain=ar)
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=lucagaggero7">
-  <img height=200 align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&hide=contribs&show_icons=true&theme=transparent&locale=es&custom_title=Estadisticas" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7">
-  <img height=200 align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&layout=compact&langs_count=8&card_width=320" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github-readme-stats.vercel.app/api?username=lucagaggero7">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&hide=contribs&show_icons=true&theme=transparent&locale=es&custom_title=Estadisticas" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&layout=compact&langs_count=8&card_width=320" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lucagaggero7)](https://github.com/anuraghazra/github-readme-stats)
