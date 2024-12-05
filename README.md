@@ -27,22 +27,22 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
     srcset="https://github-readme-stats.vercel.app/api?username=lucagaggero7&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=false&hide=contribs&show_icons=true&theme=transparent&locale=es&custom_title=Estadisticas"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&show_icons=true" />
 </picture>
     </td>
     <td align="center" width="50%">
       <picture>
   <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&ring_color=0134ff&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=false&theme=transparent&custom_title=Lenguajes%20m%C3%A1s%20usados&hide_progress=true&langs_count=6)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&ring_color=0134ff&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=false&theme=transparent&custom_title=Lenguajes%20m%C3%A1s%20usados&hide_progress=true&langs_count=6"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&ring_color=0134ff&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=false&theme=transparent&custom_title=Lenguajes%20m%C3%A1s%20usados&hide_progress=true&langs_count=6)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&ring_color=0134ff&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=false&theme=transparent&custom_title=Lenguajes%20m%C3%A1s%20usados&hide_progress=true&langs_count=6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&show_icons=true" />
 </picture>
     </td>
   </tr>
