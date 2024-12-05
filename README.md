@@ -1,6 +1,4 @@
-<div align="center">
-<h1>¡Hola mundo! 👋 </h1>
-</div>
+# Hola, Soy Stéfano👋🏻👨🏻‍💻
 
 <img src="https://i.imgur.com/AsbUSOk.png" alt="Banner">
 
