@@ -8,13 +8,13 @@
 
 - 🤝 I’m looking for help with [angular cli web apps](https://github.com/lucagaggero7/CelularesAngularApp)
 
-- 👨‍💻 All of my projects are available at [https://portafolio-stefano-gaggero.netlify.app/](https://portafolio-stefano-gaggero.netlify.app/)
+- 👨‍💻 All of my projects are available at ✨[My Portfolio](https://portafolio-stefano-gaggero.netlify.app/)
 
 - 💬 Ask me about **Blazor WebAssembly, ASP.NET Web Api**
 
 - 📫 How to reach me **stefanolucagaggero@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12ZgguPWwuoU8pQSNv69kQdI_U2KhHWG5/view?usp=drive_link](https://drive.google.com/file/d/12ZgguPWwuoU8pQSNv69kQdI_U2KhHWG5/view?usp=drive_link)
+- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/12ZgguPWwuoU8pQSNv69kQdI_U2KhHWG5/view?usp=drive_link)
 
 <table>
   <tr>
