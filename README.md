@@ -33,7 +33,7 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lucagaggero7&bg-color=white&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=false&hide=contribs&show_icons=true&locale=es&custom_title=Estadisticas"
+    srcset="https://github-readme-stats.vercel.app/api?username=lucagaggero7&bg-color=white&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=false&hide=contribs&show_icons=true&theme=dark&locale=es&custom_title=Estadisticas"
     media="(prefers-color-scheme: dark)"
   />
   <source
