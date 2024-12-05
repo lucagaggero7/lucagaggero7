@@ -15,7 +15,8 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
 [-> Y aquí contactarme en LinkedIn👨🏻‍💼](https://www.linkedin.com/in/stefano-gaggero-508a09183/?originalSubdomain=ar)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucagaggero7&hide=contribs&show_icons=true&theme=transparent&locale=es&custom_title=Estadisticas)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucagaggero7)
 
 <!--
 **lucagaggero7/lucagaggero7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
