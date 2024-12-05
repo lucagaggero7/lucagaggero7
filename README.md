@@ -1,7 +1,7 @@
 <div align="center">
 <h1>¡Hola mundo! 👋 </h1>
 </div>
-[Imgur](https://imgur.com/e68uLgX.png)
+<blockquote class="imgur-embed-pub" lang="en" data-id="e68uLgX"><a href="https://imgur.com/e68uLgX">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Trabajo con __.NET 8__ , __.NET 9__ y __.NET Framework 4.8__, utilizando C#. Empleo herramientas como ASP.NET Core Web API, Entity Framework, Swagger/OpenAPI y bases de datos SQL Server. Para el diseño frontend utilizo Angular, ASP.NET Web Forms, Blazor WebAssembly, HTML, CSS, Bootstrap, JavaScript y TypeScript.
 
