@@ -31,7 +31,7 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
         <img
           src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&show_icons=true"
           alt="Estadísticas"
-          style="height: 200px; width: 100%;"
+          style=" width: 100%;"
         />
       </picture>
     </td>
@@ -49,7 +49,7 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&show_icons=true"
           alt="Lenguajes más usados"
-          style="height: 200px; width: 100%;"
+          style=" width: 100%;"
         />
       </picture>
     </td>
