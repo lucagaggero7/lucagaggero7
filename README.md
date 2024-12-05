@@ -14,6 +14,7 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
 [-> Aquí puedes ver mis repositorios📌](https://github.com/lucagaggero7?tab=repositories)  
 [-> Y aquí contactarme en LinkedIn👨🏻‍💼](https://www.linkedin.com/in/stefano-gaggero-508a09183/?originalSubdomain=ar)
 
+<!--
 <table>
   <tr>
     <td align="center" width="50%">
@@ -28,6 +29,19 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
     </td>
   </tr>
 </table>
+-->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lucagaggero7&bg-color=white&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=false&hide=contribs&show_icons=true&theme=transparent&locale=es&custom_title=Estadisticas"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lucagaggero7&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=false&hide=contribs&show_icons=true&theme=transparent&locale=es&custom_title=Estadisticas"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lucagaggero7)](https://github.com/anuraghazra/github-readme-stats)
