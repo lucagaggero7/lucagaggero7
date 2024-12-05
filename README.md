@@ -18,12 +18,12 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
   <tr>
     <td align="center" width="50%">
       <a href="https://github-readme-stats.vercel.app/api?username=lucagaggero7">
-        <img src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&hide=contribs&show_icons=true&theme=transparent&locale=es&custom_title=Estadisticas" style="height:200px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&hide=contribs&show_icons=true&theme=transparent&locale=es&custom_title=Estadisticas"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&layout=compact&langs_count=8" style="height:200px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" />
       </a>
     </td>
   </tr>
