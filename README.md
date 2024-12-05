@@ -23,7 +23,7 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
     </td>
     <td align="center" width="50%">
       <a href="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&layout=compact&langs_count=8&card_width=320" style="height:200px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&layout=compact&langs_count=8" style="height:200px;" />
       </a>
     </td>
   </tr>
