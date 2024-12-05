@@ -14,22 +14,20 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
 [-> Aquí puedes ver mis repositorios📌](https://github.com/lucagaggero7?tab=repositories)  
 [-> Y aquí contactarme en LinkedIn👨🏻‍💼](https://www.linkedin.com/in/stefano-gaggero-508a09183/?originalSubdomain=ar)
 
-
 <table>
   <tr>
     <td align="center" width="50%">
       <a href="https://github-readme-stats.vercel.app/api?username=lucagaggero7">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&hide=contribs&show_icons=true&theme=transparent&locale=es&custom_title=Estadisticas" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&hide=contribs&show_icons=true&theme=transparent&locale=es&custom_title=Estadisticas" style="height:200px;" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&layout=compact&langs_count=8&card_width=320" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&layout=compact&langs_count=8&card_width=320" style="height:200px;" />
       </a>
     </td>
   </tr>
 </table>
-
 
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lucagaggero7)](https://github.com/anuraghazra/github-readme-stats)
