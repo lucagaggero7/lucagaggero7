@@ -31,7 +31,7 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
         <img
           src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&show_icons=true"
           alt="Estadísticas"
-          style=" width: 100%;"
+          style="width: 100%;"
         />
       </picture>
     </td>
@@ -49,12 +49,13 @@ Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Traba
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&show_icons=true"
           alt="Lenguajes más usados"
-          style=" width: 100%;"
+          style="width: 100%;"
         />
       </picture>
     </td>
   </tr>
 </table>
+
 
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lucagaggero7)](https://github.com/anuraghazra/github-readme-stats)
