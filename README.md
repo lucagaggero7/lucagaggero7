@@ -16,10 +16,10 @@
 
 - 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/12ZgguPWwuoU8pQSNv69kQdI_U2KhHWG5/view?usp=drive_link)
 
-<table>
+<table style="table-layout: auto; width: 100%;">
   <tr>
     <!-- Primera Columna -->
-    <td align="center" width="50%">
+    <td align="center" style="max-width: 50%; width: 50%;">
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=lucagaggero7&bg-color=white&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=true&hide=contribs&show_icons=true&theme=dark&locale=en"
@@ -32,12 +32,12 @@
         <img
           src="https://github-readme-stats.vercel.app/api?username=lucagaggero7&show_icons=true"
           alt="Estadísticas"
-          style="width: 100%;"
+          style="width: 100%; max-width: 100%;"
         />
       </picture>
     </td>
     <!-- Segunda Columna -->
-    <td align="center" width="50%">
+    <td align="center" style="max-width: 50%; width: 50%;">
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&ring_color=0134ff&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=true&theme=dark&hide_progress=true&langs_count=6"
@@ -50,12 +50,13 @@
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagaggero7&show_icons=true"
           alt="Lenguajes más usados"
-          style="width: 100%;"
+          style="width: 100%; max-width: 100%;"
         />
       </picture>
     </td>
   </tr>
 </table>
+
 
 <div align="left">
   <h2>🚀 Tech Stack</h2>
