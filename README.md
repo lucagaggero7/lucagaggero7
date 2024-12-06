@@ -147,7 +147,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
   <a href="mailto:stefanolucagaggero@gmail.com" target="blank">
-    <img align="center" src="https://i.imgur.com/y3Dsct9.png" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://i.imgur.com/y3Dsct9.png" alt="Gmail" height="40" width="40" />
   </a>
   <a href="https://instagram.com/stefanogaggero_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stefanogaggero_" height="30" width="40" />
