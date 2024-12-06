@@ -16,10 +16,9 @@
 
 - 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/12ZgguPWwuoU8pQSNv69kQdI_U2KhHWG5/view?usp=drive_link)
 
-
-<!-- <table style="table-layout: auto; width: 100%;"> 
+<!-- 
+ <table style="table-layout: auto; width: 100%;"> 
   <tr>
-    <!-- Primera Columna -->
     <td align="center" style="max-width: 50%; width: 50%;">
       <picture>
         <source
@@ -37,7 +36,6 @@
         />
       </picture>
     </td>
-    <!-- Segunda Columna -->
     <td align="center" style="max-width: 50%; width: 50%;">
       <picture>
         <source
@@ -55,9 +53,9 @@
         />
       </picture>
     </td>
-  <!-- </tr> -->
-  <!--</table> -->
-
+  </tr>
+</table> 
+  -->
 
 <div align="left">
   <h2>🚀 Tech Stack</h2>
