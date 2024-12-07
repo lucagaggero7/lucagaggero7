@@ -17,9 +17,6 @@
 - 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/12ZgguPWwuoU8pQSNv69kQdI_U2KhHWG5/view?usp=drive_link)
 
 
- 
-
-
 <div align="left">
   <h2>🚀 Tech Stack</h2>
   <table>
