@@ -94,7 +94,8 @@
   </table>
 </div>
 
-
+<div align="left">
+  <h2>🚀 Stats</h2>
 <table style="table-layout: auto; width: 100%;"> 
   <tr>
     <td align="center" style="max-width: 50%; width: 50%;">
@@ -132,6 +133,7 @@
     </td>
   </tr>
 </table> 
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
