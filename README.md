@@ -2,6 +2,10 @@
 
 <img src="https://i.imgur.com/AsbUSOk.png" alt="Banner">
 
+
+<div align="left">
+  <h2>🤠 About me</h2>
+  
 - 🔭 I’m currently working on [.net 9 web apps](https://github.com/lucagaggero7/Proyecto_Zetta)
 
 - 🌱 I’m currently learning **Angular, React and TailwindCSS**
@@ -15,7 +19,7 @@
 - 📫 How to reach me **stefanolucagaggero@gmail.com**
 
 - 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/12ZgguPWwuoU8pQSNv69kQdI_U2KhHWG5/view?usp=drive_link)
-
+</div>
 
 <div align="left">
   <h2>🚀 Tech Stack</h2>
@@ -95,7 +99,7 @@
 </div>
 
 <div align="left">
-  <h2>🚀 Stats</h2>
+  <h2>📈 Stats</h2>
 <table style="table-layout: auto; width: 100%;"> 
   <tr>
     <td align="center" style="max-width: 50%; width: 50%;">
@@ -135,7 +139,8 @@
 </table> 
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <h2>🔗 Connect with me:</h2>
 <p align="left">
   <a href="https://github.com/lucagaggero7" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lucagaggero7" height="30" width="40" />
@@ -156,6 +161,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
   </a>
 </p>
+</div>
 
  <!-- Soy programador 💻 y estudiante de la carrera de Desarrollo de Software. Trabajo con __.NET 8__ , __.NET 9__ y __.NET Framework 4.8__, utilizando C#. Empleo herramientas como ASP.NET Core Web API, Entity Framework, Swagger/OpenAPI y bases de datos SQL Server. Para el diseño frontend utilizo Angular, ASP.NET Web Forms, Blazor WebAssembly, HTML, CSS, Bootstrap, JavaScript y TypeScript. -->
 
