@@ -121,11 +121,11 @@
     <td align="center" style="max-width: 50%; width: 50%;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@lucagaggero7&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=true&theme=dark&custom_title=Last%20Week%20Activity"
+          srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@lucagaggero7&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=true&theme=dark&custom_title=Last%20Week%20Activity&hide=binary"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@lucagaggero7&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=true&theme=transparent&custom_title=Last%20Week%20Activity"
+          srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@lucagaggero7&title_color=0134ff&icon_color=0134ff&border_color=0134ff&text_bold=true&theme=transparent&custom_title=Last%20Week%20Activity&hide=binary"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
