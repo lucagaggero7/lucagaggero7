@@ -145,7 +145,7 @@
   <a href="https://github.com/lucagaggero7" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lucagaggero7" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/stefano-gaggero-508a09183" target="blank">
+  <a href="https://ar.linkedin.com/in/stefano-luca-gaggero-508a09183" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefano-gaggero-508a09183" height="30" width="40" />
   </a>
   <a href="https://wa.me/3572403100" target="blank">
