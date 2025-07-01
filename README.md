@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **stefanolucagaggero@gmail.com**
 
-- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/12ZgguPWwuoU8pQSNv69kQdI_U2KhHWG5/view?usp=drive_link)
+- 📄 Know about my experiences on my [resume]()
 </div>
 
 <div align="left">
