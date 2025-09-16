@@ -44,12 +44,15 @@
           <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
             <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
           </a><br>
+          <a href="https://www.mysql.com/" target="_blank">
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MY SQL">
+          </a><br>
           <a href="https://learn.microsoft.com/en-us/ef/" target="_blank">
             <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework">
           </a><br>
-          <a href="https://swagger.io/" target="_blank">
-            <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-          </a>
+          <a href="https://github.com/DapperLib/Dapper" target="_blank">
+            <img src="https://img.shields.io/badge/Dapper-1BA1E2?style=for-the-badge&logo=dapper&logoColor=white" alt="Dapper">
+          </a><br>
         </td>
         <!-- Frontend -->
         <td>
@@ -59,24 +62,27 @@
           <a href="https://angular.io/" target="_blank">
             <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
           </a><br>
+          <a href="https://material.angular.dev/" target="_blank">
+            <img src="https://img.shields.io/badge/Angular_Material-3f51b5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material">
+          </a><br>
+          <a href="https://getbootstrap.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+          </a><br>
+          <!--<a href="https://tailwindcss.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+          </a><br>-->
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+          </a><br>
           <a href="https://www.typescriptlang.org/" target="_blank">
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
           </a><br>
           <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-          </a><br>
+          </a>
           <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
           </a><br>
-          <a href="https://getbootstrap.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-          </a><br>
-          <a href="https://tailwindcss.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-          </a><br>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-          </a>
         </td>
         <!-- DevOps / Tools -->
         <td>
@@ -91,6 +97,9 @@
           </a><br>
           <a href="https://www.postman.com/" target="_blank">
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+          </a><br>
+          <a href="https://swagger.io/" target="_blank">
+            <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
           </a>
         </td>
       </tr>
