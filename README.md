@@ -149,15 +149,15 @@
   <a href="https://ar.linkedin.com/in/stefano-luca-gaggero-508a09183" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefano-gaggero-508a09183" height="30" width="40" />
   </a>
-  <a href="https://wa.me/3572403100" target="blank">
+  <!--  <a href="https://wa.me/3572403100" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="mailto:stefanolucagaggero@gmail.com" target="blank">
     <img align="center" src="https://i.imgur.com/y3Dsct9.png" alt="Gmail" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/stefanogaggero_" target="blank">
+ <!-- <a href="https://instagram.com/stefanogaggero_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stefanogaggero_" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="https://stackoverflow.com/users/28652703/stefano-gaggero" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
   </a>
