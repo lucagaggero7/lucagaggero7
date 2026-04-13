@@ -45,6 +45,9 @@
           <a href="https://github.com/DapperLib/Dapper" target="_blank">
             <img src="https://img.shields.io/badge/Dapper-1BA1E2?style=for-the-badge&logo=dapper&logoColor=white" alt="Dapper">
           </a><br>
+          <a href="https://redis.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+</a><br>
         </td>
         <!-- Frontend -->
         <td>
