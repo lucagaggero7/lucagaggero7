@@ -6,19 +6,11 @@
 <div align="left">
   <h2>🤠 About me</h2>
   
-- 🔭 I’m currently working on [.net 9 web apps](https://github.com/lucagaggero7/Proyecto_Zetta)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portafolio-stefano-gaggero.netlify.app/)
 
-- 🌱 I’m currently learning **Angular, React and TailwindCSS**
+- 💬 Ask me about **API REST, Angular, Web Forms or Blazor WebAssembly**
 
-- 🤝 I’m looking for help with [angular cli web apps](https://github.com/lucagaggero7/CelularesAngularApp)
-
-- 👨‍💻 All of my projects are available at ✨[My Portfolio](https://portafolio-stefano-gaggero.netlify.app/)✨
-
-- 💬 Ask me about **Blazor WebAssembly, ASP.NET Web Api**
-
-- 📫 How to reach me **stefanolucagaggero@gmail.com**
-
-- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1yu7MfvXEnpmNLnzAwwBBUzTKGgKXpb66/view?usp=sharing)
+ <!--- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1yu7MfvXEnpmNLnzAwwBBUzTKGgKXpb66/view?usp=sharing)-->
 </div>
 
 <div align="left">
