@@ -72,23 +72,11 @@
           <a href="https://www.typescriptlang.org/" target="_blank">
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
           </a><br>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-          </a><br>
         </td>
         <!-- DevOps / Tools -->
         <td>
           <a href="https://git-scm.com/" target="_blank">
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-          </a><br>
-          <a href="https://code.visualstudio.com/" target="_blank">
-            <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-          </a><br>
-          <a href="https://visualstudio.microsoft.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
           </a><br>
           <a href="https://www.postman.com/" target="_blank">
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
