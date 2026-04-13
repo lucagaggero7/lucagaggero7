@@ -1,6 +1,6 @@
 # Hi, I'm Stéfano👋🏻👨🏻‍💻
 
-<img src="https://i.imgur.com/AsbUSOk.png" alt="Banner">
+<img src="https://imgur.com/JgZqTDF" alt="Banner">
 
 
 <div align="left">
