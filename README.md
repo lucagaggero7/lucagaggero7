@@ -1,7 +1,7 @@
 # Hi, I'm Stéfano👋🏻👨🏻‍💻
-
+ <!---
 <img src="https://imgur.com/JgZqTDF.png" alt="Banner">
-
+-->
 
 <div align="left">
   <h2>🤠 About me</h2>
@@ -89,7 +89,7 @@
     </tbody>
   </table>
 </div>
-
+ <!---
 <div align="left">
   <h2>📈 Stats</h2>
 <table style="table-layout: auto; width: 100%;"> 
@@ -130,6 +130,7 @@
   </tr>
 </table> 
 </div>
+-->
 
 <div align="left">
   <h2>🔗 Connect with me:</h2>
