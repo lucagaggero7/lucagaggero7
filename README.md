@@ -33,7 +33,7 @@
             <tr>
               <td>
                 <a href="https://dotnet.microsoft.com/" target="_blank">
-                  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+                  <img src="https://img.shields.io/badge/.NET-512AD5?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
                 </a>
               </td>
               <td>
@@ -93,7 +93,7 @@
               </td>
               <td>
                 <a href="https://getbootstrap.com/" target="_blank">
-                  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+                  <img src="https://img.shields.io/badge/Bootstrap-870AFB?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
                 </a>
               </td>
             </tr
