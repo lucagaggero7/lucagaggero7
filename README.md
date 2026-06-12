@@ -16,7 +16,7 @@
 </div>
 
 <div align="left">
-  <h2>🚀 Tech Stack</h2>
+  <h2>🚀 Mi Stack</h2>
   <table>
     <thead>
       <tr>
@@ -135,7 +135,7 @@
 -->
 
 <div align="left">
-  <h2>🔗 Connect with me:</h2>
+  <h2>🔗 Conectar:</h2>
 <p align="left">
   <a href="https://github.com/lucagaggero7" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lucagaggero7" height="30" width="40" />
