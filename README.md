@@ -37,8 +37,8 @@
                 </a>
               </td>
               <td>
-                <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
-  <img src="https://img.shields.io/badge/SQL_Server-1BA1E2?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+       <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+  <img src="https://img.shields.io/badge/SQL_Server-0291EF?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
 </a>
               </td>
             </tr>
