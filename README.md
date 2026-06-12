@@ -37,42 +37,34 @@
                 </a>
               </td>
               <td>
-                <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-                  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-                </a>
-              </td>
-            </tr>
-            <tr>
-              <td>
                 <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
                   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
                 </a>
               </td>
+            </tr>
+            <tr>
               <td>
                 <a href="https://www.mysql.com/" target="_blank">
                   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
                 </a>
               </td>
-            </tr>
-            <tr>
               <td>
                 <a href="https://learn.microsoft.com/en-us/ef/" target="_blank">
                   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework">
                 </a>
               </td>
+            </tr>
+            <tr>
               <td>
                 <a href="https://github.com/DapperLib/Dapper" target="_blank">
                   <img src="https://img.shields.io/badge/Dapper-1BA1E2?style=for-the-badge" alt="Dapper">
                 </a>
               </td>
-            </tr>
-            <tr>
               <td>
                 <a href="https://redis.io/" target="_blank">
                   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
                 </a>
               </td>
-              <td></td>
             </tr>
           </table>
         </td>
@@ -104,7 +96,7 @@
                   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
                 </a>
               </td>
-            </tr>
+            </tr
             <tr>
               <td>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -151,6 +143,8 @@
     </tbody>
   </table>
 </div>
+
+
  <!---
 <div align="left">
   <h2>📈 Stats</h2>
