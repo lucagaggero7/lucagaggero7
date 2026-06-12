@@ -8,8 +8,6 @@
   
 - 👨‍💻 Si queres conocerme mejor, aqui podras encontrar mas información. [My Portfolio](https://portafolio-stefano-gaggero.netlify.app/)
 
-- 💬 Podes consultarme sobre **API REST, Angular, Web Forms or Blazor WebAssembly**
-
 - 🔍 Actualmente explorando en .NET 10 y Angular 22
 
  <!--- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1yu7MfvXEnpmNLnzAwwBBUzTKGgKXpb66/view?usp=sharing)-->
