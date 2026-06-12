@@ -19,72 +19,134 @@
     <thead>
       <tr>
         <th>Backend 🖥️</th>
+        <th width="60"></th>
         <th>Frontend 🌐</th>
-        <th>DevOps / Tools ⚙️</th>
+        <!-- <th width="60"></th> -->
+        <!-- <th>DevOps / Tools ⚙️</th> -->
       </tr>
     </thead>
     <tbody>
       <tr>
         <!-- Backend -->
-        <td>
-          <a href="https://dotnet.microsoft.com/" target="_blank">
-            <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-          </a><br>
-          <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-          </a><br>
-          <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
-            <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-          </a><br>
-          <a href="https://www.mysql.com/" target="_blank">
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MY SQL">
-          </a><br>
-          <a href="https://learn.microsoft.com/en-us/ef/" target="_blank">
-            <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework">
-          </a><br>
-          <a href="https://github.com/DapperLib/Dapper" target="_blank">
-            <img src="https://img.shields.io/badge/Dapper-1BA1E2?style=for-the-badge&logo=dapper&logoColor=white" alt="Dapper">
-          </a><br>
-          <a href="https://redis.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-</a><br>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>
+                <a href="https://dotnet.microsoft.com/" target="_blank">
+                  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+                </a>
+              </td>
+              <td>
+                <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+                  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+                  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+                </a>
+              </td>
+              <td>
+                <a href="https://www.mysql.com/" target="_blank">
+                  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://learn.microsoft.com/en-us/ef/" target="_blank">
+                  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework">
+                </a>
+              </td>
+              <td>
+                <a href="https://github.com/DapperLib/Dapper" target="_blank">
+                  <img src="https://img.shields.io/badge/Dapper-1BA1E2?style=for-the-badge" alt="Dapper">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://redis.io/" target="_blank">
+                  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+                </a>
+              </td>
+              <td></td>
+            </tr>
+          </table>
         </td>
+        <!-- Separación -->
+        <td width="60"></td>
         <!-- Frontend -->
-        <td>
-          <a href="https://blazor.net/" target="_blank">
-            <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
-          </a><br>
-          <a href="https://angular.io/" target="_blank">
-            <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-          </a><br>
-          <a href="https://material.angular.dev/" target="_blank">
-            <img src="https://img.shields.io/badge/Angular_Material-3f51b5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material">
-          </a><br>
-          <a href="https://getbootstrap.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-          </a><br>
-          <!--<a href="https://tailwindcss.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-          </a><br>-->
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-          </a><br>
-          <a href="https://www.typescriptlang.org/" target="_blank">
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-          </a><br>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>
+                <a href="https://blazor.net/" target="_blank">
+                  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
+                </a>
+              </td>
+              <td>
+                <a href="https://angular.io/" target="_blank">
+                  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://material.angular.dev/" target="_blank">
+                  <img src="https://img.shields.io/badge/Angular_Material-3f51b5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material">
+                </a>
+              </td>
+              <td>
+                <a href="https://getbootstrap.com/" target="_blank">
+                  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+                  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+                </a>
+              </td>
+              <td>
+                <a href="https://www.typescriptlang.org/" target="_blank">
+                  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+                </a>
+              </td>
+            </tr>
+          </table>
         </td>
         <!-- DevOps / Tools -->
-        <td>
-          <a href="https://git-scm.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-          </a><br>
-          <a href="https://www.postman.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-          </a><br>
-          <a href="https://swagger.io/" target="_blank">
-            <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-          </a>
+        <!--
+        <td width="60"></td>
+        <td valign="top">
+          <table>
+            <tr>
+              <td>
+                <a href="https://git-scm.com/" target="_blank">
+                  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+                </a>
+              </td>
+              <td>
+                <a href="https://www.postman.com/" target="_blank">
+                  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://swagger.io/" target="_blank">
+                  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+                </a>
+              </td>
+              <td></td>
+            </tr>
+          </table>
         </td>
+        -->
       </tr>
     </tbody>
   </table>
