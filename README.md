@@ -38,27 +38,27 @@
               </td>
               <td>
                 <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
-                  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-                </a>
+  <img src="https://img.shields.io/badge/SQL_Server-1BA1E2?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+</a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="https://www.mysql.com/" target="_blank">
-                  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-                </a>
+               <a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-00618B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</a>
               </td>
               <td>
                 <a href="https://learn.microsoft.com/en-us/ef/" target="_blank">
-                  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework">
-                </a>
+  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework">
+</a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="https://github.com/DapperLib/Dapper" target="_blank">
-                  <img src="https://img.shields.io/badge/Dapper-1BA1E2?style=for-the-badge" alt="Dapper">
-                </a>
+             <a href="https://github.com/DapperLib/Dapper" target="_blank">
+  <img src="https://img.shields.io/badge/Dapper-F97316?style=for-the-badge" alt="Dapper">
+</a>
               </td>
               <td>
                 <a href="https://redis.io/" target="_blank">
