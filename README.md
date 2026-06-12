@@ -18,7 +18,7 @@
   <table>
     <thead>
       <tr>
-        <th>Backend 🖥️</th>
+        <th>Backend ⚙️</th>
         <th width="60"></th>
         <th>Frontend 🌐</th>
         <!-- <th width="60"></th> -->
