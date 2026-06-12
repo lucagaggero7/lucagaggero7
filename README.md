@@ -4,11 +4,13 @@
 -->
 
 <div align="left">
-  <h2>🤠 About me</h2>
+  <h2>🤠 Sobre mí</h2>
   
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portafolio-stefano-gaggero.netlify.app/)
+- 👨‍💻 Si queres conocerme mejor, aqui podras encontrar mas información. [My Portfolio](https://portafolio-stefano-gaggero.netlify.app/)
 
-- 💬 Ask me about **API REST, Angular, Web Forms or Blazor WebAssembly**
+- 💬 Podes consultarme sobre **API REST, Angular, Web Forms or Blazor WebAssembly**
+
+- 🔍 Actualmente explorando en .NET 10 y Angular 22
 
  <!--- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1yu7MfvXEnpmNLnzAwwBBUzTKGgKXpb66/view?usp=sharing)-->
 </div>
